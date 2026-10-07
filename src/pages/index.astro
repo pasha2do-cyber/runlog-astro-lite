@@ -82,7 +82,7 @@ const tools = [
   <!-- [01] Logos / cells -->
   <Section inner="pt-6" label="Customers">
     <p class="label px-6 max-md:px-5"><b>[01]</b> running in production at</p>
-    <ul class="mt-6 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 border-t border-rule">
+    <ul class="mt-6 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-none lg:grid-flow-col lg:auto-cols-fr border-t border-rule">
       {home.logos.map((name, i) => (
         <li class="flex items-center justify-center gap-2.5 h-24 max-md:h-[72px] border-b border-r border-rule text-steel lg:border-b-0 lg:last:border-r-0">
           <svg viewBox="0 0 16 16" class="size-3.5" fill="currentColor" fill-rule="evenodd" aria-hidden="true"><path d={glyphs[i % glyphs.length]} /></svg>
