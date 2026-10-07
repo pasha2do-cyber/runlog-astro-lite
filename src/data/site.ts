@@ -4,7 +4,7 @@ import settings from './site-settings.json';
 export const site = {
   ...settings,
   url: 'https://runlog.example.com',
-  secondary: { label: 'Get Runlog Pro', href: 'https://runlog-astro.pages.dev' },
+  secondary: { label: 'Get Runlog Pro', href: 'https://contra.com/products/QETiOjxd-runlog-pro-ai-agent-and-dev-tool-saa-s-astro-theme' },
   pro: 'https://runlog-astro.pages.dev',
   nav: [
     { label: 'Product', href: '/#how' },
@@ -14,7 +14,7 @@ export const site = {
   menu: [
     { label: 'Product', href: '/#how' },
     { label: 'Blog', href: '/blog' },
-    { label: 'Get Runlog Pro', href: 'https://runlog-astro.pages.dev' },
+    { label: 'Get Runlog Pro', href: 'https://contra.com/products/QETiOjxd-runlog-pro-ai-agent-and-dev-tool-saa-s-astro-theme' },
   ],
   footer: [
     { title: 'Theme', links: [['Home', '/'], ['Blog', '/blog'], ['Runlog Pro', 'https://runlog-astro.pages.dev']] },

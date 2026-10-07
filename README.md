@@ -36,7 +36,7 @@ npm run dev
 | Figma source file | | ✓ |
 | Commercial license, unlimited projects | MIT | ✓ |
 
-**[Get Runlog Pro for $79 ->](https://runlog-astro.pages.dev)**
+**[Get Runlog Pro for $79 ->](https://contra.com/products/QETiOjxd-runlog-pro-ai-agent-and-dev-tool-saa-s-astro-theme)**
 
 ## Credit
 
